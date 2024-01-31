@@ -1,0 +1,13 @@
+{
+  "name": "knip-playground",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "knip": "4.1.0",
+    "typescript": "5.3.3"
+  }
+}
