@@ -4,7 +4,7 @@
 	"private": true,
 	"type": "module",
 	"main": "build/index.js",
-	"types": "build/index.d.ts",
+	"types": "src/index.ts",
 	"scripts": {
 		"postinstall": "npm run build",
 		"build:clean": "rm -rf build",

@@ -4,6 +4,6 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@kp/shared": "file:../packages/shared"
+    "@kp/shared": "*"
   }
 }
